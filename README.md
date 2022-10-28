@@ -1,1 +1,1 @@
-# magicmix.github.io
+# MagicMix's project page
